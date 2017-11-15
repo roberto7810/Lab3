@@ -5,7 +5,7 @@ public class Lab3Exercises {
 		JFrame myFrame = new JFrame("Roberto CArlos Hernandez Martinez");
 		myFrame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		myFrame.setLocation(840, 540);
-		myFrame.setSize(400, 100);
+		myFrame.setSize(200, 200);
 		myFrame.setVisible(true);
 	}
 }
